@@ -95,7 +95,7 @@ The sample is self-selected (74% male, 41% US, 44% earn under $40K), so the resu
 ![Career Entry](images/05-career-entry.png)
 ![Who Responded](images/06-who-responded.png)
 
-**Interactivity:** three synced slicers (Industry, Job Role, Country), a Clear filters button, a page navigator, and tooltips showing group size, average salary and satisfaction. On the Overview, hovering over the "Other" job role lists what those respondents typed in. The interactive report is built in Power BI Desktop; this repository includes a PDF export and screenshots of every page (see "How to view" below).
+**Interactivity:** three synced slicers (Industry, Job Role, Country), a Clear filters button, and tooltips showing group size, average salary and satisfaction. On the Overview, hovering over the "Other" job role lists what those respondents typed in. The interactive report is built in Power BI Desktop; this repository includes a PDF export and screenshots of every page (see "How to view" below).
 
 ---
 
@@ -144,7 +144,7 @@ Drivers (3,445 rows, one per answered rating)
 _Measures (measures only, no data)
 ```
 
-![Data model](images/07-model.png)
+![Data model](images/07-model-view.png)
 
 Filters flow from `Survey` to `Drivers`, so a slicer on gender, country or role also filters the ratings.
 
@@ -259,4 +259,4 @@ Survey dataset: Alex the Analyst. This project is my own independent analysis of
 
 ---
 
-**[Your name]** | [LinkedIn] | [Email] | [Portfolio]
+**Sherifat Adeshina** | [LinkedIn](https://www.linkedin.com/in/adeshina-sherifat) | [Email](mailto:eyinadeadeshina36@gmail.com) | [medium portfolio](https://medium.com/@eyinadeadeshina36/list/from-data-to-decision-making-561ab26ca151)
